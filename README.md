@@ -8,5 +8,5 @@ See the [original repo](https://github.com/xioTechnologies/Gait-Tracking-With-x-
 
 ========================
 
-![Simulation](https://github.com/kettei/imu-simulation/assets/42662172/ad05b8b8-82e3-4d3e-907d-e67b0b454a2f)
+![Simulation](https://youtu.be/pZJctAxRLFM?si=2tO1CkWtx3rCO5_P)
 
